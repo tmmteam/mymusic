@@ -15,9 +15,9 @@ motor
 numpy
 opencv-python-headless
 pytz
-pillow==9.5.0
+pillow~=12.1.0
 psutil
-py-tgcalls==0.9.7
+py-tgcalls~=2.2.10
 pykeyboard
 python-dotenv
 pyyaml
